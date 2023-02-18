@@ -1,4 +1,3 @@
-import React from 'react'
 import { CAMPSITES } from '../../app/shared/CAMPSITES';
 
 export const selectAllCampsites = () => {
